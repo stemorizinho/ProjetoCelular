@@ -1,0 +1,15 @@
+C:\Users\Barcellos\escorpion\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.exe
+C:\Users\Barcellos\escorpion\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.deps.json
+C:\Users\Barcellos\escorpion\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.runtimeconfig.json
+C:\Users\Barcellos\escorpion\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.dll
+C:\Users\Barcellos\escorpion\ProjetoCelular\bin\Debug\net6.0\ProjetoCelular.pdb
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.csproj.AssemblyReference.cache
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.AssemblyInfoInputs.cache
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.AssemblyInfo.cs
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.csproj.CoreCompileInputs.cache
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.dll
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\refint\ProjetoCelular.dll
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.pdb
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\ProjetoCelular.genruntimeconfig.cache
+C:\Users\Barcellos\escorpion\ProjetoCelular\obj\Debug\net6.0\ref\ProjetoCelular.dll
